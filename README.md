@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 ## Steam
 
-![Steam Status](https://steam-card.vercel.app/api?steamid=76561198838917081)
+<!-- ![Steam Status](https://steam-card.vercel.app/api?steamid=76561198838917081)
+-->
+[![Steam](https://img.shields.io/badge/Steam-Profile-blue?logo=steam)](https://steamcommunity.com/id/76561198838917081)
