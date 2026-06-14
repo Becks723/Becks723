@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 <!-- ![Steam Status](https://steam-card.vercel.app/api?steamid=76561198838917081)
 -->
-[![](https://card.yuy1n.io/card/76561198838917081/dark,en,group,bg-game-1222140)
+![](https://card.yuy1n.io/card/76561198838917081/dark,en,group,bg-game-1222140)
