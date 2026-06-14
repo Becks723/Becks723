@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/Becks723/Becks723/snake/github-contribution-grid-snake-dark.svg)
 
-## Steam
+## Steam Stats
 
 <!-- ![Steam Status](https://steam-card.vercel.app/api?steamid=76561198838917081)
 -->
-[![Steam](https://img.shields.io/badge/Steam-Profile-blue?logo=steam)](https://steamcommunity.com/id/76561198838917081)
+[![](https://card.yuy1n.io/card/76561198838917081/dark,en,group,bg-game-1222140)
