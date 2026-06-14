@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ## Contribution Snake
 
 ![](https://raw.githubusercontent.com/Becks723/Becks723/snake/github-contribution-grid-snake-dark.svg)
+
+## Steam
+
+![Steam Status](https://steam-card.vercel.app/api?steamid=76561198838917081)
